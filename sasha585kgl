@@ -1,0 +1,5 @@
+1 - brew tap minima-global/minima
+
+2 - brew install minima-global/minima/minima
+
+3 - brew services start minima
